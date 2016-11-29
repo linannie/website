@@ -1,4 +1,4 @@
-# website
+# website (in process)
 I’m in the process of creating my own personal website! I want to have About, Blog, Projects, and Fun sections on my website.
 
 Theme:
